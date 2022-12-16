@@ -1,6 +1,7 @@
-By: Ashley Ufret
+#### By: Ashley Ufret
 Compare and Contrast two 2 Compare & contrast 2 technical tools that serve a similar purpose.
 Tools for Communication with Parents: Class dojo & Remind
+___________________________________________________________________________________________________________________________________________________________
 Remind is a communication platform that helps educators reach parents. Fast: Messages are sent in real-time to an entire class, a small group, or just a single person. You can also schedule announcements ahead of time and attach photos and other files.
 Whole group Remind messages limited to no more than 300 characters (Pro: Parents are more likely to read the class messages, you can still attach files with the shortened message Con: To send longer messages they have to be sent to each person as a direct message).
 Parents add their preferred contact method to remind, so they are guaranteed to get the message (as a text or directly in an email depending on choice).
