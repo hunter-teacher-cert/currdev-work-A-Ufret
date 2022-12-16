@@ -1,6 +1,6 @@
 # LET'S POWER ON EQUITY FOR CS
-by Ashley Ufret and Théa Williams
-Found in Hunter Repo[https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5]
+## By Ashley Ufret and Théa Williams
+### Found in Hunter Repo[https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5]
 -----
 
 ### General Overview
